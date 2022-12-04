@@ -68,11 +68,12 @@ _footer: ''
   h3 {
     font-size: 30px;
     margin-right: 10px;
-    width: 470px;
-    margin-left: 530px;
+    width: 500px;
+    margin-left: 500px;
   }
   h3 img {
     vertical-align: middle;
+    background-color: transparent;
   }
   svg {
     background-color: pink;
