@@ -73,6 +73,7 @@ footer: |
 <!--
 _class: title
 _footer: ''
+_paginate: false
 -->
 <style scoped>
   h2 {
@@ -91,9 +92,9 @@ _footer: ''
 
 # Research Software Engineers: What can they do for Trusted Research Environments?
 
-## LSC NHS Secure Data Environment Workshop
+## LSC NHS Secure Data Environment Workshop 20 Oct 2023
 
-### ![h:40](./mail_icon.svg) spli@dundee.ac.uk</span> <br/> ![h:40](./github-mark.svg) [@manics](https://github.com/manics)
+### Simon Li <br/> ![h:40](./mail_icon.svg) spli@dundee.ac.uk</span> <br/> ![h:40](./github-mark.svg) [@manics](https://github.com/manics)
 
 ![bg](./slioch.jpg)
 
@@ -572,6 +573,7 @@ Read [SATRE](https://satre-specification.readthedocs.io/en/stable/)! A standard 
 - [Azure TRE](https://github.com/microsoft/AzureTRE)
 - [Turing TRE](https://github.com/alan-turing-institute/data-safe-haven) (runs on Azure)
 - Google have one
+- [OpenSAFELY](https://www.opensafely.org/)
 
 Main differences: vendor, inter-organisational relationships, support costs, internal vs external maintenance, ability to customise yourself
 
@@ -588,6 +590,15 @@ Main differences: vendor, inter-organisational relationships, support costs, int
 - Build services inside the TRE for multiple users: Shared web services, dashboards
 
 ---
+# Thinking bigger
+
+Scalable compute and high performance/throughput computing
+- Compute intensive ML/AI
+- Very large datasets
+
+![bg right:50%](./datacentre.jpg)
+
+---
 # Even longer term: federation
 
 Means different things to everyone: generally involves working on data from multiple TREs
@@ -598,6 +609,8 @@ Preliminary work from DARE UK:
 - [DARE UK Federated Architecture Blueprint v1](https://dareuk.org.uk/our-work/federated-architecture-blueprint/) (v2 being written)
 - [TRE-FX](https://trefx.uk/) ([Bitfount](https://www.bitfount.com/), [DataSHIELD](https://www.datashield.org/))
 - [TELEPORT](https://dareuk.org.uk/driver-project-teleport/)
+
+![bg right:33%](./pylon.jpg)
 
 ---
 <!--
