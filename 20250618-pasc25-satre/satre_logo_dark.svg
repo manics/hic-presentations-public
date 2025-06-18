@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="71.966003mm"
+   height="47.625mm"
+   viewBox="0 0 71.966004 47.625"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">SATRE Logo</title>
+  <defs
+     id="defs1" />
+  <path
+     id="path1"
+     d="m 68.527083,172.24375 h 71.966307 v -47.625 H 68.527083 Z"
+     style="display:inline;fill:#05033f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+     clip-path="none"
+     transform="translate(-68.5271, -124.619)" />
+  <path
+     id="path2"
+     d="m 0,0 h -63 c -6.6,0 -12,5.4 -12,12 v 18 c 0,6.6 5.4,12 12,12 H 0 C 6.6,42 12,36.6 12,30 V 12 C 12,5.4 6.6,0 0,0 Z"
+     style="display:inline;fill:none;stroke:#c1272d;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     clip-path="none"
+     transform="matrix(0.352778 0 0 -0.352778 54.6806 31.75)" />
+  <path
+     style="font-weight:700;font-size:14.1111px;font-family:'Baxter Sans Core';fill:#ffffff;stroke-width:0.352778"
+     d="m 83.15106,147.31649 1.636888,-0.77611 c -0.451555,-1.25589 -1.707443,-2.01789 -3.189109,-2.01789 -1.777998,0 -3.118553,1.03011 -3.118553,2.61055 0,1.42522 0.945444,2.17311 2.554109,2.667 1.396999,0.43745 2.04611,0.71967 2.04611,1.41111 0,0.59267 -0.592666,1.016 -1.368777,1.016 -0.973666,0 -1.566332,-0.46567 -1.989665,-1.397 l -1.53811,0.94545 c 0.649111,1.43933 1.806221,2.10255 3.428997,2.10255 2.003777,0 3.344331,-1.12889 3.344331,-2.87866 0,-1.41111 -1.128888,-2.10256 -2.751664,-2.61056 -1.100666,-0.35278 -1.834443,-0.57855 -1.834443,-1.29822 0,-0.55033 0.409222,-0.90311 1.213554,-0.90311 0.776111,0 1.354666,0.49389 1.566332,1.12889 z m 9.468555,6.39233 h 2.215443 l -3.400775,-9.05933 h -2.201332 l -3.428997,9.05933 h 2.06022 l 0.592667,-1.76389 h 3.570108 z m -3.697108,-3.175 1.326443,-3.92289 1.312333,3.92289 z m 17.864663,-5.88433 h -7.492995 v 1.651 h 2.808105 v 7.40833 h 1.87678 v -7.40833 h 2.80811 z m 8.70654,9.05933 -2.13078,-3.302 c 1.24178,-0.42333 1.93323,-1.397 1.93323,-2.75167 0,-1.84855 -1.29823,-3.01977 -3.51367,-3.01977 h -3.59833 v 9.07344 h 1.87678 v -3.06211 h 1.397 l 1.93322,3.06211 z m -5.43277,-7.40833 h 1.72155 c 1.03011,0 1.62278,0.47978 1.62278,1.35466 0,0.86078 -0.59267,1.34056 -1.63689,1.34056 h -1.70744 z m 8.90412,-0.0141 h 4.48733 v -1.63689 h -6.36411 v 9.05933 h 6.36411 v -1.651 h -4.48733 v -2.032 h 3.95111 v -1.651 h -3.95111 z"
+     id="text3"
+     clip-path="none"
+     transform="translate(-68.5271, -124.619)"
+     aria-label="SATRE" />
+  <path
+     id="path4"
+     d="M 0,0 V 1.991 C 0,5.345 2.089,8.125 4.719,8.195 7.428,8.267 9.643,5.486 9.643,2.049 V 0 h 0.536 c 1.183,0 2.142,-1.223 2.142,-2.732 v -8.197 c 0,-1.509 -0.959,-2.732 -2.142,-2.732 H -0.536 c -1.183,0 -2.143,1.223 -2.143,2.732 v 8.197 c 0,1.509 0.96,2.732 2.143,2.732 z M 2.143,2.008 V 0 H 7.5 V 2.049 C 7.5,3.975 6.252,5.527 4.73,5.462 3.282,5.401 2.143,3.856 2.143,2.008"
+     style="display:inline;fill:#c1272d;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     clip-path="none"
+     transform="matrix(0.352778 0 0 -0.352778 57.3894 28.6947)" />
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>SATRE Logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
